@@ -4,8 +4,8 @@
  
 ### Config.json
 
-To start of, you will need to create a **config.json** in ./src
-Inside **config.json** you will use this code, but with your own bot token from discord, and the command prefix it will trigger on.
+You will need to create a **config.json** in ./src &nbsp;
+Inside **config.json** you will use this code, but with your own bot token from discord, and the command prefix that the bot will trigger on.
 ```
 {
   "token": "Your bot token",
