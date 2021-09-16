@@ -1,5 +1,17 @@
 # Asuka
-## A Discord bot, using discord.js and typescript.
+### A Discord bot, using discord.js and typescript.
+&nbsp;
+ 
+### Config.json
 
-## Commands
+To start of, you will need to create a **config.json** in ./src
+Inside **config.json** you will use this code, but with your own bot token from discord, and the command prefix it will trigger on.
+```
+{
+  "token": "Your bot token",
+  "prefix": "Your bot command-prefix"
+}
+```
+
+### Commands
 -
