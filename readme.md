@@ -14,4 +14,5 @@ Inside **config.json** you will use this code, but with your own bot token from 
 ```
 
 ### Commands
--
+- ping - Your ping with the bot.  
+- help - Help for command, or list all commands.
